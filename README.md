@@ -67,7 +67,7 @@ Footer
 
 Download or clone the repository:
 
-git clone https://github.com/your-username/your-repo.git
+https://tsiona23.github.io/My-portfolio-/
 
 
 Open the project:
