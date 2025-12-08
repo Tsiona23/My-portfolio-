@@ -4,6 +4,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript.
 It showcases my skills, projects, and contact information as a frontend developer.
 
 🚀 Features
+
 ✔️ Clean & Modern UI
 
 A responsive layout with a smooth scrolling effect and animated sections.
