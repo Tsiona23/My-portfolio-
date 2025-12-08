@@ -71,11 +71,6 @@ Download or clone the repository:
 https://tsiona23.github.io/My-portfolio-/
 
 
-Open the project:
-
-cd your-repo
-
-
 Run the site by opening index.html in your browser.
 
 🌟 Future Improvements
